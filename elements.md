@@ -12,12 +12,14 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Reviews</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">The Greek Hour Community</h2>
+<p>Learning a language is personal. It’s about confidence, patience, small wins, and the moment things finally make sense.
+Every student arrives with a different story and a different reason for learning Greek. What stays the same is the journey we share: steady progress, mutual trust, and a lot of encouragement along the way.
+Results matter—but so does how you get there. These testimonials come from students who committed to learning Greek in a way that fit their lives, their goals, and their pace. The reviews below are their words, shared honestly, reflecting both their experience with the language and the community we’ve built together over the past eight years.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
