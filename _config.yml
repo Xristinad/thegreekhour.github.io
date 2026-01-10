@@ -1,7 +1,7 @@
 # site settings
 title: The Greek Hour
 subtitle: Learn Greek with ease
-email: youremailaddress@gmail.com
+email: christysgreekhour@gmail.com
 description: Immerse yourself into a greek language journey
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thegreekhour.github.io" # the base hostname & protocol for your site
@@ -22,14 +22,13 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
-  GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
-  Slack:
+  TikTok: https://www.tiktok.com/@christys.greek.ho?lang=el-GR
+
+  Instagram: https://www.instagram.com/christysgreekhour/
+  LinkedIn: https://www.linkedin.com/company/the-greek-hour/?viewAsMember=true
+  
+  Facebook: https://www.facebook.com/profile.php?viewas=100000686899395&id=61569720326566
+  
 
 # build settings
 markdown: kramdown
